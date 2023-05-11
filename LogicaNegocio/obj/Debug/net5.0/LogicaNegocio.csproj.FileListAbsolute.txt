@@ -1,0 +1,15 @@
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\DataAccess.dll
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\jcadavic\source\repos\SistemaDeReservas\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CopyComplete
